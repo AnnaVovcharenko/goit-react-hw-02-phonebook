@@ -5,8 +5,6 @@ import FormContact from './Form/Form'
 import { ContactList } from './ContactList/ContactList';
 import Filter from './Filter/Filter';
 import Section from './Section/Section'
-import { ErrorMessage } from 'formik';
-
 
 
 export class App extends Component{
