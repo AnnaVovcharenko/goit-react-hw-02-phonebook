@@ -1,7 +1,6 @@
 import React from 'react';
 //import PropTypes from 'prop-types'; Проверка типов с помощью PropTypes
 import { Formik } from 'formik';
-import { Form, Field, ErrorMessage } from 'formik';
 import * as Yup from 'yup';
 import {
   MyForm,
