@@ -13,4 +13,4 @@ gap: 25px;
 align-items: center;
 
 
-`
+`;
